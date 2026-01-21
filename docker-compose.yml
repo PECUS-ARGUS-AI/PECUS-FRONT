@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  pecusnet-front:
+    build: .
+    container_name: pecusnet-dashboard
+    ports:
+      - "3002:80"
+    restart: always
