@@ -47,7 +47,7 @@ Este projeto foi configurado para rodar isoladamente sem necessidade de instalar
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/PECUS-ARGUS-AI/PECUS-FRONT.git
-    cd pecusnet-frontend
+    cd PECUS-FRONT
     ```
 
 2.  **Inicie a aplicação:**
